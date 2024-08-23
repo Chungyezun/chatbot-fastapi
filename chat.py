@@ -1,0 +1,2 @@
+a = []
+print(str(a))
