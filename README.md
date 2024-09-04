@@ -3,4 +3,10 @@
 
 ## How to run
 
-Run ```python app.py```
+API SERVER : Run 
+    ```cd backend
+    python app.py```
+
+React : Run 
+    ```cd frontend
+    npm start```
